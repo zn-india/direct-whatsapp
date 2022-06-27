@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "45646225476",
+    "project_id": "direct-whatsapp-znindia",
+    "storage_bucket": "direct-whatsapp-znindia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45646225476:android:819d16c6ff7ac3db411c11",
+        "android_client_info": {
+          "package_name": "com.manglam.directwhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45646225476-mntm1d1hoklvh57aki79660d5jldhdkb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manglam.directwhatsapp",
+            "certificate_hash": "0e6a6cb1686ba586707d144e856ea212513f5e96"
+          }
+        },
+        {
+          "client_id": "45646225476-pk8egim4hjfvjthc9i44m70gmfoj2jae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCppcVov_gB6KOG3-PC_FYj0SoO-hFCNIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45646225476-pk8egim4hjfvjthc9i44m70gmfoj2jae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

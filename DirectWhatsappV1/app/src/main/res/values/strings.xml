@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Direct Whatsapp</string>
+    <string name="whatsapp_number">Whatsapp Number</string>
+    <string name="template">template</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="logo">logo</string>
+</resources>
